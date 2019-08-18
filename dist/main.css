@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+.container {
+  border: 2px solid #b8daff;
+  border-radius: 15px;
+  margin-right: 0;
+  width: 400px; }
+
+.logo {
+  display: inline-block; }
+
+#translator {
+  width: 400px; }
+
+input {
+  border: 1px solid #4e555b;
+  border-radius: 15px;
+  height: 100px;
+  width: 350px; }
